@@ -1,0 +1,4 @@
+Home button	KEYCODE_HOME (3)
+Back button	KEYCODE_BACK (4)
+Power button	KEYCODE_POWER (26)
+Volume Up	KEYCODE_VOLUME_UP (24)
